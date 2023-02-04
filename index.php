@@ -1,5 +1,5 @@
 <?php
-include('traducoes/tradutor.php');
+	include('traducoes/tradutor.php');
 ?>
 <!DOCTYPE html>
 <html>
@@ -60,6 +60,8 @@ include('traducoes/tradutor.php');
 </head>
 
 <body id="bod">
+	<?php include ('navbar.php'); ?>
+
 	<nav class="navbar navbar-default navbar-transparent navbar-fixed-top" color-on-scroll="200">
 		<div class="container">
 			<div class="navbar-header">
