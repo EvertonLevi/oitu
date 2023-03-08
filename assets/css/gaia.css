@@ -262,12 +262,12 @@ small,
 }
 
 a {
-  color: #777777;
+  color: rgb(255, 255, 255);
   opacity: .7;
   font-size: 14px;
 }
 a:hover {
-  color: #777777;
+  color: #9b9b9b;
   opacity: 1;
 }
 
